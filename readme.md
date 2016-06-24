@@ -1,6 +1,7 @@
 ## Seva Setu - Serving to bridge
 
 This repository contains all the material utilized to create Seva Setu's webpage - [sevasetu.org](sevasetu.org)
+
 For any queries regarding the codebase or any material therein, please drop a line to contact@sevasetu.org
 
 ## About Seva Setu
